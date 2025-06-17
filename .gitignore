@@ -1,0 +1,26 @@
+# OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Node packages (only if using npm)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Sass cache files
+.sass-cache/
+
+# Coverage reports
+coverage/
