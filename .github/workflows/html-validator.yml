@@ -1,0 +1,19 @@
+name: HTML Validator
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-html:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run HTMLHint on index.html
+        uses: Cyb3r-Jak3/htmlhint-action@v1
+        with:
+          htmlhint-config: .htmlhintrc
