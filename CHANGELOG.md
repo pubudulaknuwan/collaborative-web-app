@@ -32,6 +32,5 @@ All notable changes to this project will be documented in this file.
 
 ## 🛠️ Contributors
 - Pubudu Laknuwan (Project Manager & Developer)
-- Sinthika Jayasena (Developer)
+- Sinthika Jayasena (Developer & DevOps Manager)
 - Ravindu Madhushan (Developer & Reviewer)
-
