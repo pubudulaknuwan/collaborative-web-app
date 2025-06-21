@@ -1,4 +1,5 @@
 # Collaborative Web App - GitHub SCM Project
+![Deploy](https://github.com/pubudulaknuwan/collaborative-web-app/actions/workflows/deploy.yml/badge.svg)
 
 ## 🎯 Objective
 To apply software configuration management (SCM) practices using GitHub by collaboratively developing a small web application. The project demonstrates version control, collaboration, issue tracking, automation (CI/CD), and release management.
